@@ -40,6 +40,8 @@ deactivate
 ```
 
 ## References
-Chernozhukov, V., Hansen, C., Kallus, N., Spindler, M., and Syrgkanis, V. Applied Causal Inference Powered by ML and AI. Authors for Online Distribution, 2022. URL https://causalml-book.org. Version 0.1.2 22/03/2026. Accessed on 27/03/2026
+Below are the references relevant to the code analysis. A full list of references can be found in the project report.
 
-Cook, P. J. and Ludwig, J. The social costs of gun ownership. Journal of Public Economics, 90(1):379–391, 2006.
+- Chernozhukov, V., Hansen, C., Kallus, N., Spindler, M., and Syrgkanis, V. Applied Causal Inference Powered by ML and AI. Authors for Online Distribution, 2022. URL https://causalml-book.org. Version 0.1.2 22/03/2026. Accessed on 27/03/2026
+
+- Cook, P. J. and Ludwig, J. The social costs of gun ownership. Journal of Public Economics, 90(1):379–391, 2006.
